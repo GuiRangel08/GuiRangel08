@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📝🧑 About Me:
 Fullstack Web Developer based in Brazil<br>
 
 
